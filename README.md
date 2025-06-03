@@ -1,10 +1,10 @@
-# Taam Cloud Node API Library
+# [Taam Cloud](https://taam.cloud/) Node API Library
 
 [![NPM version](https://img.shields.io/npm/v/taam-cloud.svg)](https://npmjs.org/package/taam-cloud) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/taam-cloud)
 
 This library provides convenient access to the Taam Cloud REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found on [docs.taam.cloud](https://docs.taam.cloud). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found on [docs.taam.cloud](https://docs.taam.cloud/). The full API of this library can be found in [api.md](api.md).
 
 
 ## Installation
